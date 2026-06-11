@@ -1,0 +1,12 @@
+# ignore dataset files
+loan_approval_data.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS code temporary jupyter files
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
